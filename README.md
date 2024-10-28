@@ -1,5 +1,3 @@
-![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1726564709~exp=1726568309~hmac=b2acf95f35090a9143bb7d5d83b3b142231c194379d75efc4b26ed7b81d0ffdf&w=1060)
-
 
 <h1 align="center">Hi 👋, I'm Mrityunjay Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
@@ -39,8 +37,4 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranmrityunjay&show_icons=true&locale=en&layout=compact" alt="pranmrityunjay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranmrityunjay&show_icons=true&locale=en" alt="pranmrityunjay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranmrityunjay&" alt="pranmrityunjay" /></p>
